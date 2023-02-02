@@ -1,15 +1,15 @@
 
   ![License Badge](https://img.shields.io/badge/License-MIT-green.svg)
   
-  #### GitHub Username: djbalabis
+  #### GitHub Username: Yo1nk
   
-  #### GitHub Email Address: darnelljovan@gmail.com
+  #### GitHub Email Address: byatsko8@hotmail.com
   
   
-  # Professional README Generator
+  # Challenge 9
   
   ## Description
-  An easy to use README.md generator for your projects.
+  An easy to use ReadMe.md generator for your projects
   
   ## Table of Contents
   * [Languages](#languages)
@@ -31,7 +31,7 @@
   
   
   ## Contributors
-  - William
+  - William Yatsko
   
   ## Website
   https://github.com/Yo1nk/Challenge-9
@@ -41,7 +41,9 @@
   
   ## Questions
   For additional questions and information, please see the creator's GitHub profile here: github.com/Yo1nk/
-  or reach out through email at byatsko8@hotmail.com
+  or reach out through email at byatsko8@hotmail.com.
   
   ## License
+  Copyright &copy;2023 by William Yatsko.
   Licensed under the MIT license.
+  
