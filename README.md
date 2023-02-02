@@ -3,7 +3,7 @@
 # Description
 Using the command line interface (CLI), this application properly generates a professional README.md file to use on your projects.
 
-# Built With
+# Built Using
 * JavaScript
 * Node.js
 
