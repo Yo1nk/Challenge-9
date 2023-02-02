@@ -40,8 +40,8 @@
   - npm test
   
   ## Questions
-  For additional questions and information, please see the creator's GitHub profile here: github.com/djbalabis/
-  or reach out through email at darnelljovan@gmail.com.
+  For additional questions and information, please see the creator's GitHub profile here: github.com/Yo1nk/
+  or reach out through email at byatsko8@hotmail.com
   
   ## License
   Copyright &copy;2022 by DJ.
