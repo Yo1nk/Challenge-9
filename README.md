@@ -1,7 +1,7 @@
 # Professional-README-Generator
 
 # Description
-Using the command line interface (CLI), this application properly generates a professional README.md file to use on your projects.
+Using the command line interface, this application properly generates a professional README.md file to use on your projects.
 
 # Built Using
 * JavaScript
