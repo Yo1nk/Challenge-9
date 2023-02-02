@@ -14,4 +14,4 @@ Using the command line interface (CLI), this application properly generates a pr
 4. Start the application by running "node index.js"
 
 # Usage
-Answer prompts in command line (CLI) to create a README.md.
+Answer prompts in command line to create a README.md.
