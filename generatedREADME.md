@@ -44,5 +44,4 @@
   or reach out through email at byatsko8@hotmail.com
   
   ## License
-  Copyright &copy;2022 by DJ.
   Licensed under the MIT license.
